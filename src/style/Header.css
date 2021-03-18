@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(226, 221, 221);
+    height: auto;
+    width: 100%;
+}
+
+.logo img {
+    height: 50px;
+}
